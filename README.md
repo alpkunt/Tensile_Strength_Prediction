@@ -1,5 +1,5 @@
 # Tensile Strength Prediction
-With this app, any user can predict tensile strength of stell specimens according to their chemical compositions.
+With this app, any user can predict tensile strength of stell specimens according to their chemical compositions by using Machine Learning Models.
 
 # TODO:
   - Chosing best ML model to predict tensile strength of steel.
