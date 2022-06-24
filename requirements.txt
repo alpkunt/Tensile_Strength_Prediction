@@ -5,3 +5,12 @@ numpy
 scikit-learn-intelex
 lightgbm
 xgboost
+SQLAlchemy==1.4.35
+fastapi[all]
+uvicorn[standard]
+python-jose
+passlib~=1.7.4
+bcrypt
+sqlalchemy_utils
+psycopg2-binary
+python-dotenv
